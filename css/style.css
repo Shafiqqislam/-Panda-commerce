@@ -1,0 +1,39 @@
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.catagories img{
+    width: 100px;
+    
+}
+.panda-slide .carousel-item ,.panda-subscribe{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.btn{
+    background-image: linear-gradient(45deg, tomato,#FF4790);
+    padding: 14px 35px;
+    font-size: 18px;
+    border-radius: 10px;
+    color: white;
+    margin: 10px 0px;
+}
+.nav-link{
+    font-size: 20px;
+    font-weight: 600;
+}
+h3{
+    color:#FF4790 ;
+    font-size: 40px;
+}
+.contact{
+    
+padding: 9px 0px;
+    
+padding-right: 54px;
+    
+border: 1px solid #a7a366d4;
+}
